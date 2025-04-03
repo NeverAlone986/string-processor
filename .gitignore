@@ -1,0 +1,4 @@
+/string-processor
+/test-results/
+*.log
+*.tmp
